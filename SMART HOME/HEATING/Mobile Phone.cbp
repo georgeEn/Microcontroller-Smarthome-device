@@ -1,0 +1,21 @@
+#include "Mobile phone.h"
+#include <iostream>
+
+void Mobile phone::GetroomTemperature() {
+    //Get the room temperature and send to the GSM Module
+    std::cout<<"Get status"<<endl;
+}
+
+void Mobile phone::onHeater() {
+    //send message to GSM Module to on heater
+    std::cout<<"heater on"<<endl;
+}
+
+void Mobile phone::offHeater() {
+    //send message to GSM Module to off heater
+    std::cout<<"heater off"<<endl;
+}
+
+void Mobile phone::Test_Mobile_phone() {
+
+}

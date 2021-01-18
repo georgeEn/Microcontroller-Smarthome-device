@@ -1,0 +1,11 @@
+#include "Temperature detection.h"
+#include <iostream>
+
+void Temperature detection::roomTemperature() {
+     //send room temperature to control system when received
+     std::cout<<"roomTemperature"<<endl;
+}
+
+void Temperature detection::Test_Temperature_detection() {
+
+}
