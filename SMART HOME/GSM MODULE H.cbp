@@ -1,0 +1,12 @@
+#ifndef _GSM MODULE_H
+#define _GSM MODULE_H
+
+class GSM Module {
+public:
+
+void controlHeater();
+
+void Test _GSM_Module();
+};
+
+#endif

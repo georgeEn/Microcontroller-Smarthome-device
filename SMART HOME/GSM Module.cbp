@@ -1,0 +1,15 @@
+#include "GSM Module.h"
+#include <iostream>
+
+void GSM Module::controlHeater() {
+     //send ok when the enquiry  of the mobile phone is received
+     std::cout<<"OK"<<endl;
+
+     //send requestto Control System to on or off heater
+     std::cout<<"heater on"<<endl;
+     dtd::cout<<"heater off"<<endl;
+}
+
+void GSM Module::Test_GSM_Modulr() {
+
+}

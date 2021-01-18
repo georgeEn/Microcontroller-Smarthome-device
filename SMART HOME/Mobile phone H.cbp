@@ -1,0 +1,16 @@
+#ifndef _MOBILE PHONE_H
+#define _MOBILE PHONE_H
+
+class Mobile Phone {
+public
+
+void GetroomTemperature();
+
+void onHeater();
+
+void offHeater();
+
+void Test_Mobile_phone();
+};
+
+#endif
