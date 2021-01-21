@@ -1,0 +1,15 @@
+#include "controller.h"
+#include "Bulb.h"
+#include <iostream>
+
+
+
+void Controller::Control_Light() {
+	
+switch (BulbState!){
+Case 0 :
+	 std::cout<< " the bulb state is unknow ";
+Case 1 :
+	 std::cout<< " the bulb state is unknow ";
+
+}
