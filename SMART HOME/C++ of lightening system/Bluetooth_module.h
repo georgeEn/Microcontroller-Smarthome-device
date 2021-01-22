@@ -1,5 +1,5 @@
-#ifndef _Bluetooth MODULE_H
-#define _Bluetooth MODULE_H
+#ifndef _BLUETOOTH MODULE_H
+#define _BLUETOOTH MODULE_H
 
 class Bluetooth_Module {
 public: 
