@@ -5,11 +5,11 @@
 
 
 void Controller::Control_Light() {
-	//send ok to GSM module that the command is received
+	//send ok to module that the command is received
 	std::cout<<"ok"<<endl;
 	
 	
 
-void Microcontroller::Test_Light(){
+void controller::Test_Light(){
 	
 }
