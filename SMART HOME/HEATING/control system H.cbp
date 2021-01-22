@@ -1,0 +1,12 @@
+#ifndef _CONTROL SYSTEM_H
+#define _CONTROL SYSTEM_H
+
+class controlSystem {
+public:
+
+void controlHeater();
+
+void Test_controlSystem();
+};
+
+#endif
