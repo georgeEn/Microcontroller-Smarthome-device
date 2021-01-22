@@ -1,4 +1,4 @@
-#include "GSM Module.h"
+#include "Bluetooth Module.h"
 #include <iostream>
 
 void GSM_Module::Command_Light() {
@@ -10,7 +10,7 @@ void GSM_Module::Command_Light() {
 	std::cout<<"Off"<<endl;
 }
 
-void GSM_Module::Test_GSM_Module(){
+void Bluetooth_Module::Test_Bluetooth_Module(){
 	
 }
 
