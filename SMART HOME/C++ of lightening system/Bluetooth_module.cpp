@@ -1,7 +1,7 @@
 #include "Bluetooth Module.h"
 #include <iostream>
 
-void GSM_Module::Command_Light() {
+void Bluetooth_Module::Command_Light() {
 	//send ok when the inquiry of the mobile phone is received
 	std::cout<<"ok"<<endl;
 	
